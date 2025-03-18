@@ -4,6 +4,8 @@ Employee Analysis Report Using Looker Studio
 ## **📌 Overview**
 This project provides an **Employee Analysis Dashboard** built using **Looker Studio**, with data sourced from **Google Sheets**. The dashboard offers insights into **employee demographics, salary distribution, department-wise segmentation, and hiring trends**.
 
+🔗 **Dashboard URL**:(https://lookerstudio.google.com/s/kYB60C1bf5w)
+
 ## **📂 Dataset Information**
 The dataset contains the following key columns:
 
